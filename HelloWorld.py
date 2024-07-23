@@ -1,2 +1,2 @@
 # 打印Hello World
-print("Hello World")
+print("Hello World, Merge Code!")
